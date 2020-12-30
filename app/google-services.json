@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002427973517",
+    "project_id": "sellist-842bd",
+    "storage_bucket": "sellist-842bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002427973517:android:c2c5fa5c7b3ecedfd347c4",
+        "android_client_info": {
+          "package_name": "com.hagos.sellist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002427973517-m7u5ldp5ac203mo6o09mfkltiqdtg9j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHDgia3CL5Hr_LCcKwMrK_x3SC9-6Z0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002427973517-m7u5ldp5ac203mo6o09mfkltiqdtg9j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
